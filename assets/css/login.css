@@ -1,5 +1,0 @@
-@import "tailwindcss";
-
-input::placeholder {
-  text-align: left;
-}
